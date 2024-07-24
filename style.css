@@ -1,0 +1,37 @@
+.product-filters {
+    margin-bottom: 20px;
+  }
+  
+  .product-filters ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .product-filters li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .product-filters a {
+    text-decoration: none;
+    color: #337ab7;
+  }
+  
+  .product-filters a:hover {
+    color: #23527c;
+  }
+  
+  .product-list {
+    margin-top: 20px;
+  }
+  
+  .product-item {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  .product-item h3 {
+    margin-top: 0;
+  }
